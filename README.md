@@ -146,3 +146,16 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 Project Link: [https://github.com/iTrixPro/dashboard](https://github.com/iTrixPro/dashboard)
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/iTrixPro/dashboard.svg?style=for-the-badge
+[contributors-url]: https://github.com/iTrixPro/dashboard/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/iTrixPro/dashboard.svg?style=for-the-badge
+[forks-url]: https://github.com/iTrixPro/dashboard/network/members
+[stars-shield]: https://img.shields.io/github/stars/iTrixPro/dashboard.svg?style=for-the-badge
+[stars-url]: https://github.com/iTrixPro/dashboard/stargazers
+[issues-shield]: https://img.shields.io/github/issues/iTrixPro/dashboard.svg?style=for-the-badge
+[issues-url]: https://github.com/iTrixPro/dashboard/issues
+[license-shield]: https://img.shields.io/github/license/iTrixPro/dashboard.svg?style=for-the-badge
+[license-url]: https://github.com/iTrixPro/dashboard/blob/master/LICENSE.txt
