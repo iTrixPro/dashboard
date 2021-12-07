@@ -45,7 +45,6 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -147,37 +146,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 Project Link: [https://github.com/iTrixPro/dashboard](https://github.com/iTrixPro/dashboard)
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
-
-
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/iTrixPro/NearToMe.svg?style=for-the-badge
-[contributors-url]: https://github.com/iTrixPro/NearToMe/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/iTrixPro/NearToMe.svg?style=for-the-badge
-[forks-url]: https://github.com/iTrixPro/NearToMe/network/members
-[stars-shield]: https://img.shields.io/github/stars/iTrixPro/NearToMe.svg?style=for-the-badge
-[stars-url]: https://github.com/iTrixPro/NearToMe/stargazers
-[issues-shield]: https://img.shields.io/github/issues/iTrixPro/NearToMe.svg?style=for-the-badge
-[issues-url]: https://github.com/iTrixPro/NearToMe/issues
-[license-shield]: https://img.shields.io/github/license/iTrixPro/NearToMe.svg?style=for-the-badge
-[license-url]: https://github.com/iTrixPro/NearToMe/blob/master/LICENSE.txt
-[product-screenshot]: images/screenshot.png
