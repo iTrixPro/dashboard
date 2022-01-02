@@ -98,6 +98,9 @@ On the last 7 days, those cryptos lose a lot of their rating. Their price decrea
 ### histogram 
 We can clearly see the supremacy of bitcoin over etherum and litecoin when comparing their prices.
 
+### map 
+It shows us that bitcoin is well known in the world which can explain it's supremacy over ethereum and litecoin.
+
 
 
 <!-- ROADMAP -->
