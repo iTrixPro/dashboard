@@ -93,7 +93,7 @@ Dashboard around three cryptos which are Bitcoin, Ethereum and litecoin.
 * Bitcoin : ↘ 
 * Ethereum : ↘ 
 * Litecoin : ↘ 
-On the last 7 days, those cryptos lose a lot of their rating. Their price decrease a lot too. 
+<br />On the last 7 days, those cryptos lose a lot of their rating. Their price decrease a lot too. 
 
 ### histogram 
 We can clearly see the supremacy of bitcoin over etherum and litecoin when comparing their prices.
