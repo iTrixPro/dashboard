@@ -40,8 +40,14 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#rapport-analyse">Rapport d'analyse</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <li>
+      <a href="#rapport-analyse">Report</a>
+      <ul>
+        <li><a href="#rating">Rating of cryptos</a></li>
+        <li><a href="#histogram">Comparison</a></li>
+        <li><a href="#map">Popularity</a></li>
+      </ul>
+    </li>
     <li><a href="#members">Members</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -87,27 +93,19 @@ Dashboard around three cryptos which are Bitcoin, Ethereum and litecoin.
    ```
 
 <!-- RAPPORT ANALYSE -->
-## Rapport analyse
+## Report
 
-### rating of cryptos 
+### rating
 * Bitcoin : ↘ 
 * Ethereum : ↘ 
 * Litecoin : ↘ 
-<br />On the last 7 days, those cryptos lose a lot of their rating. Their price decrease a lot too. 
+<br /><br />On the last 7 days, those cryptos lose a lot of their rating. Their price decrease a lot too. 
 
 ### histogram 
 We can clearly see the supremacy of bitcoin over etherum and litecoin when comparing their prices.
 
 ### map 
 It shows us that bitcoin is well known in the world which can explain it's supremacy over ethereum and litecoin.
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
-
 
 
 <!-- CONTRIBUTING -->
