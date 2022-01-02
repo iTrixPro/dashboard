@@ -68,34 +68,15 @@ Dashboard around three cryptos which are Bitcoin, Ethereum and litecoin.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/iTrixPro/dashboard
    ```
-3. Install NPM packages
+3. Install modules
    ```sh
-   npm install
+   pip install dash 
+   pip install dash-bootstrap-components
    ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-
 
 <!-- USAGE EXAMPLES -->
 ## Usage
