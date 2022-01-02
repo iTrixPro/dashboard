@@ -89,9 +89,14 @@ Dashboard around three cryptos which are Bitcoin, Ethereum and litecoin.
 <!-- RAPPORT ANALYSE -->
 ## Rapport analyse
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+# rating of cryptos 
+* Bitcoin : ↘ 
+* Ethereum : ↘ 
+* Litecoin : ↘ 
+On the last 7 days, those cryptos lose a lot of their rating. Their price decrease a lot too. 
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+# histogram 
+We can clearly see the supremacy of bitcoin over etherum and litecoin when comparing their prices.
 
 
 
