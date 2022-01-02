@@ -58,8 +58,10 @@ Dashboard around three cryptos which are Bitcoin, Ethereum and litecoin.
 ### Built With
 
 * [Dash](https://dash.plotly.com/introduction)
-* [Matplotlib](https://matplotlib.org/)
+* [Plotly](https://plotly.com)
 * [Pandas](https://pandas.pydata.org/)
+* [Coingecko API](https://www.coingecko.com/fr/api/documentation)
+* [Google Trends API](https://trends.google.com/trends/?geo=FR)
 
 
 
