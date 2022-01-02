@@ -40,7 +40,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#analyse">Rapport d'analyse</a></li>
+    <li><a href="#rapport-analyse">Rapport d'analyse</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#members">Members</a></li>
     <li><a href="#license">License</a></li>
@@ -87,7 +87,7 @@ Dashboard around three cryptos which are Bitcoin, Ethereum and litecoin.
    ```
 
 <!-- RAPPORT ANALYSE -->
-## Rapport d'analyse
+## Rapport analyse
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
