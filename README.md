@@ -110,7 +110,11 @@ It shows us that bitcoin is well known in the world which can explain it's supre
 
 <!-- DEV GUIDE -->
 ## Dev Guide 
-
+* assets/ : contains all static elements such as pictures ... 
+* models/ : contains all class, files used to handle data
+* utils/  : contains all files with useful functions to not repeate yourself in the code 
+* views/  : contains the different views to show on the page (only contain home view for this version) 
+* app.py  : heart of the program
 
 <!-- CONTRIBUTING -->
 ## Members
