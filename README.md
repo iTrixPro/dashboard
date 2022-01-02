@@ -40,7 +40,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#analyse">Rapport d'analyse</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#members">Members</a></li>
     <li><a href="#license">License</a></li>
@@ -60,6 +60,7 @@ Dashboard around three cryptos which are Bitcoin, Ethereum and litecoin.
 * [Dash](https://dash.plotly.com/introduction)
 * [Plotly](https://plotly.com)
 * [Pandas](https://pandas.pydata.org/)
+* [Numpy](https://numpy.org)
 * [Coingecko API](https://www.coingecko.com/fr/api/documentation)
 * [Google Trends API](https://trends.google.com/trends/?geo=FR)
 
@@ -76,10 +77,17 @@ Dashboard around three cryptos which are Bitcoin, Ethereum and litecoin.
    ```sh
    pip install dash 
    pip install dash-bootstrap-components
+   pip install geopy
+   pip install pytrends
+   pip install dash_leaflet
+   pip install plotly
+   pip install pandas
+   pip install json
+   pip install numpy
    ```
 
-<!-- USAGE EXAMPLES -->
-## Usage
+<!-- RAPPORT ANALYSE -->
+## analyse
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
