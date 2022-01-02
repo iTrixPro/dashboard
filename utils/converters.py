@@ -51,4 +51,4 @@ class DateConverter:
             [date]: date
         """
         time = int(time/1000 if len(str(time)) > 10 else time)
-        return datetime.utcfromtimestamp(time).strftime('%Y-%m-%d-%l:%M%p').lower()
+        return datetime.utcfromtimestamp(time).strftime("%Y-%m-%d %H:%M:%S").lower()
