@@ -48,6 +48,7 @@
         <li><a href="#map">Popularity</a></li>
       </ul>
     </li>
+    <li><a href="#dev-guide">Dev Guide</a></li>
     <li><a href="#members">Members</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -106,6 +107,9 @@ We can clearly see the supremacy of bitcoin over etherum and litecoin when compa
 
 ### map 
 It shows us that bitcoin is well known in the world which can explain it's supremacy over ethereum and litecoin.
+
+<!-- DEV GUIDE -->
+## Dev Guide 
 
 
 <!-- CONTRIBUTING -->
